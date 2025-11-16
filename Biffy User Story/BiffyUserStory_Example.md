@@ -1,4 +1,4 @@
-# Example Embodiment Using the Biffy User Sotry Method  
+# Example Embodiment Using the Biffy User Story Method  
 ## User Story Template
 
 ---
