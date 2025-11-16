@@ -1,5 +1,5 @@
-# Example Embodiment Using the Method  
-## User Story Template (Embodiment A)
+# Example Embodiment Using the Biffy User Sotry Method  
+## User Story Template
 
 ---
 
