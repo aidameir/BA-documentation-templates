@@ -12,7 +12,7 @@ The checkout process currently has a 35% abandonment rate. The goal is to redesi
 | Role | Name | Responsibilities |
 |------|------|------------------|
 | Product Owner | Sarah R. | Vision, scope |
-| BA | Aida Meir | Requirements, flows |
+| BA | Aida Meirbekova | Requirements, flows |
 | UX | Sam K. | Wireframes |
 | Dev Team | — | Implementation |
 
